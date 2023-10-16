@@ -1,2 +1,4 @@
 # IndoCano
-Project Software Engineering - Kelompok 14
+Software Engineering Team Project - Team 14
+
+Website starts at views > landingPage.html 
